@@ -3,7 +3,6 @@
 
 
 let multiply=31*2;
-console.log(multiply)
 
 let random = Math.random();
 let mod = 29%5
